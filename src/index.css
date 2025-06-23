@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #f8f8f8;
+}
+
+h1 {
+  color: #2e2e2e;
+}
+
+ul {
+  padding-left: 1.5rem;
+}
